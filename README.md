@@ -146,6 +146,18 @@ mvn clean package
   ```
 
 ---
+✅ Run It!
+Click Build Now
+
+It will:
+
+Clone the repo on Slave 1
+
+Build WAR file
+
+Transfer to Slave 2
+
+Deploy to Tomcat
 
 ## Done!
 
